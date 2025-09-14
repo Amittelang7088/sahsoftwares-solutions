@@ -38,7 +38,7 @@ export default function AboutFeature() {
             className="overflow-hidden rounded-2xl border border-neutral-200 shadow-lg transform transition duration-500"
           >
             <Image
-              src="/innovation-image1.png"
+              src="/innovation-image.png"
               alt="Consultant working at a desk"
               width={640}
               height={480}
